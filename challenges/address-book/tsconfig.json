@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strict": true,
+    "strictFunctionTypes" : true,
+    "strictBindCallApply": true,
+    "module": "CommonJS",
+    "target": "ES2017",
+    "declaration": true,
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "removeComments": true
+  },
+  "include": ["src"]
+}

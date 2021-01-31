@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "sourceMap": true,
+        "declaration": true,
+        "removeComments": true,
+        "target": "ES2017"
+    },
+    "include": ["src"]
+}
